@@ -3,7 +3,7 @@
 Documentación técnica completa del proyecto Vektor AI.
 
 **Hackathon:** Oracle ONE + Alura LATAM - NoCountry  
-**Equipo:** Grupo 8  
+**Equipo:** n° 71  
 **Versión:** 2.0.0
 
 ---
